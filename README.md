@@ -3,7 +3,7 @@
 I’m an Open Source and Open Tech enthusiast.
 
 Interested in contributing to the:
-- PHP Core
+- PHP Core 🐘
 - PHP Static Analysis tools (such as Psalm, PHPStan)
 - PHP Security tools
 
