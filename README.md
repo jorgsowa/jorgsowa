@@ -1,4 +1,4 @@
-### Hi there wanderer 👋
+### Hi there, wanderer 👋
 
 I’m an Open Source and Open Tech enthusiast.
 
