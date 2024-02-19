@@ -5,7 +5,7 @@ I’m an Open Source and Open Tech enthusiast.
 Interested in contributing to the:
 - PHP Core 🐘
 - Static Analysis tools (such as Psalm, PHPStan)
-- Security tools
+- Security tools, fuzzy testing tools
 
 You can reach out to me: jorg.sowa@gmail.com
 
